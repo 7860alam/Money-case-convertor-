@@ -131,7 +131,7 @@ SHORTENER_API_MESSAGE = """To add or update your Shortner Website API,
             
 Ex: `/api de303d5270f481aec928f39883da7b7f9a8812ac `
 
-Get API From [{base_site}](https://ziplinker.net/ref/tauheed)
+Get API From [{base_site}](https://ziplinker.net)
 
 Current {base_site} API: `{shortener_api}`"""
 
