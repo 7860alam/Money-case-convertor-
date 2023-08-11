@@ -1,5 +1,5 @@
 echo "Cloning Repo...."
-git clone https://github.com/learnandearnwithkarthik/Shortner-Converter-Bot-V2.git /Shortner-Converter-Bot-V2
+git clone https://github.com/7860alam/Money-case-convertor-.git /Money-case-convertor-
 cd /Shortner-Converter-Bot-V2
 pip3 install -r requirements.txt
 echo "Starting Bot...."
