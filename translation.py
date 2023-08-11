@@ -3,7 +3,7 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 
 START_MESSAGE = '''**Hello, {}
-I Am Moneycase.link, Bulk Link Converter. I Can Convert Links Directly From Your Moneycase Account,
+I Am Ziplink.net, Bulk Link Converter. I Can Convert Links Directly From Your Ziplinker Account,
     
 1. Go To 👉 https://Ziplinker.net/member/tools/api  
 2. Than Copy API Key
@@ -18,11 +18,11 @@ Example:** `/api de303d5270f481aec928f39883da7b7f9a8812ac `
 **➕ Hit** 👉 /channel Command To Get Help About Adding your channel to bot.
 **➕ Hit** 👉 /footer To Get Help About Adding your Custom Footer to bot.
 
-If You Want Any **Other Shortner** Link Converter Bot Instead Of Moneycase than **contact** at 👉 @Playitlinksofficial (all **shortners** support available.)
+If You Want Any **Other Shortner** Link Converter Bot Instead Of Ziplinker than **contact** at 👉 @TheAmanChaudhary (all **shortners** support available.)
 '''
 
 HELP_MESSAGE = '''**Hello, {}
-I Am Moneycase, Bulk Link Converter Bot. I Can Convert Links Directly From Your Moneycase Account,**
+I Am Ziplinker, Bulk Link Converter Bot. I Can Convert Links Directly From Your Ziplinker Account,**
     
 1. Go To 👉 https://Ziplinker.net/member/tools/api  
 2. Than **Copy API** Key
@@ -37,7 +37,7 @@ Example:** `/api de303d5270f481aec928f39883da7b7f9a8812ac `
 **➕ Hit** 👉 /channel Command To Get Help About Adding your channel to bot.
 **➕ Hit** 👉 /footer To Get Help About Adding your Custom Footer to bot.
 
-If You Want Any **Other Shortner** Link Converter Bot Instead Of ""Moneycase** than **contact** at 👉 @Playitlinksofficial (all **shortners support** available.)**
+If You Want Any **Other Shortner** Link Converter Bot Instead Of ""Ziplinker** than **contact** at 👉 @TheAmanChaudhary (all **shortners support** available.)**
 '''
 
 ABOUT_TEXT = '''**Hey! My name is @ziplinkerbulkbot. I am Ziplinker Link Converter Bot.**
@@ -149,7 +149,7 @@ This Text will be added to the **bottom** of every message **caption** or text
 For adding **line break** use \n
 To Remove Footer Text: `/footer remove`"""
 
-USERNAME_TEXT = """**Hello Ziplinker, I am Ziplinker.net, Bulk Link Converter Bot From Linked Moneycase.link Account,**
+USERNAME_TEXT = """**Hello Ziplinker, I am Ziplinker.net, Bulk Link Converter Bot From Linked Ziplinker.net Account,**
 
 **🌟 Type** /channel (channel link or username)
 
