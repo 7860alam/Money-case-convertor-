@@ -3,7 +3,7 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 
 START_MESSAGE = '''**Hello, {}
-I Am Ziplink.net, Bulk Link Converter. I Can Convert Links Directly From Your Ziplinker Account,
+I Am Ziplinker.net, Bulk Link Converter. I Can Convert Links Directly From Your Ziplinker Account,
     
 1. Go To 👉 https://Ziplinker.net/member/tools/api  
 2. Than Copy API Key
@@ -110,7 +110,7 @@ BACK_REPLY_MARKUP = InlineKeyboardMarkup([
 ])
 
 USER_ABOUT_MESSAGE = """
-- Website: [{base_site}](https://ziplinker.net/ref/tauheed)
+- Website: [{base_site}](https://ziplinker.net)
 
 - Site Link {base_site} Current Linked API: {shortener_api}
 
